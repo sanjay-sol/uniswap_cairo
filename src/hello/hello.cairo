@@ -1,5 +1,5 @@
 /// This interface allows modification and retrieval of the contract balance.
-use univ2::hello::interface::{IHelloStarknet};
+use uni_v2::hello::interface::{IHelloStarknet};
 
 #[starknet::contract]
 mod HelloStarknet {
